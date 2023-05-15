@@ -1,7 +1,4 @@
-body {
-    background-color: blue;
-}
-
-h1 {
-    color: red;
-}
+h3 { color: navy;text-align: center;font-size:25px;}
+body {background-color: rgb(159, 189, 245);text-align: center;}
+body{border: 4px dotted  lavender;}
+img {width: 500px;}
