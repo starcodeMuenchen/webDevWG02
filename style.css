@@ -1,4 +1,56 @@
-h3 { color: navy;text-align: center;font-size:25px;}
-body {background-color: rgb(159, 189, 245);text-align: center;}
-body{border: 4px dotted  lavender;}
-img {width: 500px;}
+/* ============================= */
+/* ===== Allgemeine Styles ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ======================================= */
+/* ===== Section 1: Navigationszeile ===== */
+/* ======================================= */
+
+/* Dein Code */
+
+/* ================================ */
+/* ===== Section 2: Überblick ===== */
+/* ================================ */
+
+.section-style-2 {
+    background-color: #a0e9ee;
+    color: white;
+  }
+  .grosser-titel {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .kleiner-titel {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .btn {
+    font-family: 'Courier New', Courier, monospace;
+  }
+/* =============================== */
+/* ===== Section 3: Features ===== */
+/* =============================== */
+
+/* Dein Code */
+
+/* ================================== */
+/* ===== Section 4: Bewertungen ===== */
+/* ================================== */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 5: Preise ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 6: Footer ===== */
+/* ============================= */
+
+/* Dein Code */
